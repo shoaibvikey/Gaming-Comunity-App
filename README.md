@@ -6,9 +6,6 @@ The esports world is booming, but gamers can't find tournaments and orgs can't f
 
 Note: This project was developed as part of the iOS Student Development Program, an initiative by Apple, powered by Infosys, at Galgotias University.
 
-<p align="center">
-<img src="1725127978723.jpeg" alt="CasterCom App Screenshot" />
-</p>
 
 
 
